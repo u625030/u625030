@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 
+![Alt text](/assets/images/starryhat.jpg)
 # About
 
 This website was created as a demonstration of how easy it is to host a dummy site using **GitHub Pages + Jekyll**.
